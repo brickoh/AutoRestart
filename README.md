@@ -13,6 +13,3 @@ Simple AutoRestart plugin easily configurable.
 
 # Updates
 Likely not going to update this as it's just a simple restart plugin. Unless I see something which can be changed or added this will be the only commit.
-
-# Jar
-The jar can be found [here] (https://github.com/brickoh/AutoRestart/releases/tag/1.0)
