@@ -1,0 +1,11 @@
+name: AutoRestart
+version: '${project.version}'
+main: me.ethan.autorestart.AutoRestart
+api-version: 1.18
+authors: [ brickoh ]
+description: Simple AutoRestart plugin.
+website: https://github.com/brickoh/AutoRestart
+commands:
+  ar:
+    aliases: [autorestart]
+    description: "Displays the time until the next automatic server restart."

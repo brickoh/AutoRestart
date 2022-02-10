@@ -1,0 +1,8 @@
+restart: #In order to set the correct time refer to http://www.lsoft.com/resources/24hours.asp
+  hours: 3
+  minutes: 35
+  seconds: 0
+  am: true
+  broadcast: "&7[&e&lAR&7] &fThis server is &e&lRESTARTING&r in &a&l{remaining} seconds&f!"
+ar-command: "&7[&e&lAR&7] &fThere is &a&l{remaining} &funtil the next automatic restart!"
+fallback-server: "hub"
